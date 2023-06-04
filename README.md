@@ -1,4 +1,4 @@
-# JPS2023
+# Code4Good 2023
 
 ## Inspiration
 
